@@ -9,7 +9,6 @@
 ###
 
 <h3 align="left">Tech Toolbox</h3>
-###
 
 <h2 align="left">Core: Node.js · Express · MongoDB · Mongoose · Socket.IO</h2>
 <h2 align="left">Testing/Tools: Jest · Postman · Docker </h2>
@@ -107,6 +106,25 @@ Top Languages
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+name: Generate Snake
+on:
+schedule:
+- cron: "0 */24 * * *"
+workflow_dispatch:
+jobs:
+build:
+runs-on: ubuntu-latest
+steps:
+- uses: Platane/snk@v3
+with:
+github_user_name: nurehab
+outputs: |
+dist/github-contribution-grid-snake.svg
+- uses: crazy-max/ghaction-github-pages@v4
+with:
+target_branch: output
+build_dir: dist
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ###
