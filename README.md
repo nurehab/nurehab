@@ -93,7 +93,20 @@
 
 <h3 align="left">Github Stats</h3>
 
-![nurehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurehab&show_icons=true&theme=tokyonight)
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurehab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=30363D"/>
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurehab&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30363D"/>
+</div>
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurehab&theme=radical&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+</div>
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurehab&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+</div>
 
 
 ###
