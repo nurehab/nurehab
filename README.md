@@ -91,19 +91,15 @@
 
 ###
 
-GitHub Stats
+<h3 align="left">Github Stats</h3>
 
 ![nurehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurehab&show_icons=true&theme=tokyonight)
 
 
 ###
-Top Languages
+<h3 align="left">Top Languages</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurehab&layout=compact&theme=tokyonight)
 
----
-
 ###
 
-<br clear="both">
 
-###
