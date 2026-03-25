@@ -101,11 +101,11 @@ life_philosophy: "Talk is cheap. Show me the logs."
 
 ### 🚀 Current Focus
 
-- 🔬 **Mastering** advanced NestJS & software architecture
-- 🤖 **Optimizing** SQL queries and database schemas
+- 🔬 **Mastering** Advanced software architecture
+- 🤖 **Optimizing** Database schemas
 - 🐳 **Integrating** Docker into local dev workflows
 - 🌟 **Prepping** Backend Intern technical interviews
-- 📚 **Refactoring** old codebases for better scalability
+- 📚 **Refactoring** Old codebases for better scalability
 
 <br/>
 
