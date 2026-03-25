@@ -35,27 +35,27 @@
     
     <text x="35" y="120" fill="#a78bfa">"name"</text>
     <text x="90" y="120" fill="#9ca3af">:</text>
-    <text x="100" y="120" fill="#34d399">"Redoyanul Haque"</text>
+    <text x="100" y="120" fill="#34d399">"Nour Ehab"</text>
     <text x="245" y="120" fill="#9ca3af">,</text>
     
     <text x="35" y="145" fill="#a78bfa">"role"</text>
     <text x="85" y="145" fill="#9ca3af">:</text>
-    <text x="95" y="145" fill="#34d399">"AI Developer &amp; Python Engineer"</text>
+    <text x="95" y="145" fill="#34d399">"Backend Developer &amp; NodeJs Developer"</text>
     <text x="350" y="145" fill="#9ca3af">,</text>
     
     <text x="35" y="170" fill="#a78bfa">"location"</text>
     <text x="115" y="170" fill="#9ca3af">:</text>
-    <text x="125" y="170" fill="#34d399">"Bangladesh 🇧🇩"</text>
+    <text x="125" y="170" fill="#34d399">"Egypt 🇪🇬"</text>
     <text x="265" y="170" fill="#9ca3af">,</text>
     
     <text x="35" y="195" fill="#a78bfa">"focus"</text>
     <text x="90" y="195" fill="#9ca3af">:</text>
-    <text x="100" y="195" fill="#34d399">"Building Intelligent Systems"</text>
+    <text x="100" y="195" fill="#34d399">"Building Scalable APIs"</text>
     <text x="340" y="195" fill="#9ca3af">,</text>
     
     <text x="35" y="220" fill="#a78bfa">"goal"</text>
     <text x="80" y="220" fill="#9ca3af">:</text>
-    <text x="90" y="220" fill="#34d399">"Creating JARVIS-like AI"</text>
+    <text x="90" y="220" fill="#34d399">"Becoming a Senior Software Engineer"</text>
     
     <text x="20" y="245" fill="#fbbf24">}</text>
     
