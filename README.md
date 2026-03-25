@@ -1,4 +1,4 @@
-# Hi 👋! My name is Nour Ehab
+# Hi ! My name is Nour Ehab
 
 <div align="center">
   
@@ -8,11 +8,11 @@
 
 ---
 
-## 🚀 Backend Developer • Node.js • Express • MongoDB • Mongoose • Socket.IO
+## Backend Developer • Node.js • Express • MongoDB • Mongoose • Socket.IO
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZlOGM2dXQ4bW12NG83NDd3NXZlcHE5cDY2NGpxaDAwaGVqdmV2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" />
 
-### 🛠️ Tech Toolbox
+### Tech Toolbox
 
 **Core Stack:** Node.js • Express • MongoDB • Mongoose • Socket.IO  
 **Testing & Tools:** Jest • Postman • Docker  
@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 Languages
+## Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
 </div>
 
-## 🌐 Environment & Runtime
+## Environment & Runtime
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
 </div>
 
-## 🗄️ Databases & Tools
+## Databases & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -94,7 +94,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   
@@ -104,7 +104,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -114,7 +114,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -129,7 +129,7 @@
 
 ---
 
-## 📈 Profile Views Counter
+## Profile Views Counter
 
 <div align="center">
   
@@ -141,13 +141,13 @@
 
 <div align="center">
   
-  ### 💭 Quote of the Day
+  ### Quote of the Day
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
   
   ---
   
-  ### ⚡ Fun Fact
+  ### Fun Fact
   
   **"Great APIs are like great user interfaces – invisible when they work perfectly!"** 🚀
   
