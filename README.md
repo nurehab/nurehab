@@ -1,115 +1,388 @@
-# Hi! I'm Nour Ehab 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+Express+%7C+NestJS;Socket.IO+%7C+Real-time+Apps;Always+Learning+New+Things!"/>
-</div>
-
----
-
-### About Me
-
-Backend Developer focusing on building scalable, real-time applications using JavaScript and TypeScript ecosystem. I love working with databases, APIs, and Linux environments.
-
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZlOGM2dXQ4bW12NG83NDd3NXZlcHE5cDY2NGpxaDAwaGVqdmV2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" />
-
-**Currently:** Sharpening my NestJS & PostgreSQL skills.
-**Tech Stack:** Node.js, Express, MongoDB, Socket.IO.
-**OS:** Proud Ubuntu user.
-
----
-
-### Tech Toolbox
-
-#### Languages & Runtimes
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-</p>
-
-#### Frameworks & Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-</p>
-
-#### Tools & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-</p>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurehab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=30363D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurehab&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30363D"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurehab&theme=radical&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurehab&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nurehab/nurehab/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-### Connect With Me
-
-<div align="center">
-  <a href="mailto:fllstknour7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/nour-ehab-0887ab371/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://x.com/iitrybegood"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="X"/></a>
-</div>
-
----
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ███╗   ██╗ ██████╗ ██╗   ██╗██████╗     ██████╗ ███████╗██╗   ██╗          ║
+║   ████╗  ██║██╔═══██╗██║   ██║██╔══██╗    ██╔══██╗██╔════╝██║   ██║          ║
+║   ██╔██╗ ██║██║   ██║██║   ██║██████╔╝    ██║  ██║█████╗  ██║   ██║          ║
+║   ██║╚██╗██║██║   ██║██║   ██║██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝          ║
+║   ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║    ██████╔╝███████╗ ╚████╔╝           ║
+║   ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝            ║
+║                                                                              ║
+║           🚀 BACKEND DEVELOPER • NODEJS EXPERT • SQL LOVER 🚀          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=nurehab&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
-  <br/><br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Quote" />
-
-  <br/><br/>
-
-  **"Great APIs are like great user interfaces – invisible when they work perfectly!"**
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 🎯 ANIMATED HEADER                                                          -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <img src="./assets/header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
   
   <br/>
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 📊 PROFILE BADGES                                                           -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <a href="https://github.com/nurehab">
+    <img src="https://komarev.com/ghpvc/?username=nurehab&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nurehab?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fred1-for-hek&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nurehab?tab=followers">
+    <img src="https://img.shields.io/github/followers/nurehab?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nurehab">
+    <img src="https://img.shields.io/github/stars/nurehab?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+  </a>
+  
+</div>
 
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" />
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-about.svg" width="180"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🎯 What I Do
+
+```yaml
+name: Nour Ehab
+located_in: Egypt 🇪🇬
+current_status: Backend Developer Intern
+os_preference: Ubuntu Linux 🐧
+
+areas_of_expertise:
+  - 🛠️ Node.js & NestJS
+  - 📐 TypeScript & JavaScript
+  - 🗄️ PostgreSQL & Database Design
+  - 🐳 Docker & Containerization
+  - 🔄 REST APIs & WebSockets
+  - 🌐 Full-Stack Web Development
+  - 🧠 Deep Learning & NLP
+
+currently_building:
+  - Scalable Microservices
+  - Real-time Event Driven Systems
+  - Database Optimization Queries
+
+life_philosophy: "Talk is cheap. Show me the logs."
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 🚀 Current Focus
+
+- 🔬 **Mastering** advanced NestJS & software architecture
+- 🤖 **Optimizing** SQL queries and database schemas
+- 🐳 **Integrating** Docker into local dev workflows
+- 🧠 **Contributing** to open-source
+- 🌟 **Prepping** for Backend Intern technical interviews
+- 🏆 **Competing** in programming olympiads
+- 📚 **Refactoring** old codebases for better scalability
+
+<br/>
+
+### 💡 Quick Facts
+
+- 🎓 Competitive programming mindset
+- 🐧 Ubuntu terminal is my second home
+- 🔥 Passionate about clean architecture
+- 🌱 Git interactive rebase lover
+- ☕ Fueled by curiosity & system logs
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-trophy.svg" width="200"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-trophies.vercel.app/%3Fusername%3Dnourehab%26theme%3Ddiscord%26no-frame%3Dtrue%26no-bg%3Dtrue%26column%3D7%26margin-w%3D10" alt="GitHub Trophies" width="100%"/>
+</a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-stats.svg" width="220"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/red1-for-hek">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=red1-for-hek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/red1-for-hek">
+    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/red1-for-hek">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=red1-for-hek&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/red1-for-hek">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=red1-for-hek&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red1-for-hek&theme=tokyonight" width="95%" alt="Profile Details"/>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-game.svg" width="280"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-tech.svg" width="180"/>
+
+<br/><br/>
+
+<div align="center">
+
+<!-- 💻 LANGUAGES -->
+<div align="center">
+
+<h4>💻 Languages & Core</h4>
+<p>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
+</p>
+
+<h4>⚙️ Backend Development</h4>
+<p>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnestjs%26theme%3Ddark" alt="NestJS"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexpress%26theme%3Ddark" alt="Express"/></a>
+</p>
+
+<h4>🗄️ Databases</h4>
+<p>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis"/></a>
+</p>
+
+<h4>🔧 Tools & Environment</h4>
+<p>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
+</p>
 
 </div>
+
+<hr/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 CURRENTLY WORKING ON                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### ⚡ Currently Building & Learning
+
+<br/>
+
+<a href="https://github.com/nurehab">
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/nurehab">
+  <img src="https://img.shields.io/badge/🧠_LLMs-Transformer_Architectures-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/nurehab">
+  <img src="https://img.shields.io/badge/💬_Chatbots-Conversational_AI-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-connect.svg" width="160"/>
+
+<br/><br/>
+
+<div align="center">
+  
+<a href="https://github.com/nurehab" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nour-ehab-0887ab371/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/nour.ihab.17" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b26" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="mailto:fllstknour7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+<br/>
+
+<a href="https://github.com/nurehab">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌟 FOOTER                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="./assets/footer.svg" width="100%"/>
+  
+  <br/>
+  
+  <!-- ☕ BUY ME A COFFEE -->
+  <a href="https://buymeacoffee.com/redoyanul1y" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+  
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 END OF README                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
