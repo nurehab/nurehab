@@ -108,7 +108,7 @@
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=nurehab&theme=radical&row=2&column=3&margin-h=8&margin-w=8&no-bg=false&no-frame=false&bg_color=0D1117)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurehab&layout=compact&theme=tokyonight)
 
 </div>
 
