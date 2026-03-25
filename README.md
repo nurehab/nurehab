@@ -1,4 +1,4 @@
-<!-- 
+<!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   ███╗   ██╗ ██████╗ ██╗   ██╗██████╗     ██████╗ ███████╗██╗   ██╗          ║
@@ -247,8 +247,8 @@ life_philosophy: "Talk is cheap. Show me the logs."
 <h4>⚙️ Backend Development</h4>
 <p>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnestjs%26theme%3Ddark" alt="NestJS"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexpress%26theme%3Ddark" alt="Express"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
