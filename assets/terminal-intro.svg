@@ -29,7 +29,7 @@
     <text x="40" y="120" fill="#a78bfa">"name"</text>
     <text x="85" y="120" fill="#9ca3af">:</text>
     <text x="100" y="120" fill="#34d399">"Nour Ehab"</text>
-    <text x="175" y="120" fill="#9ca3af">,</text>
+    <text x="175" y="125" fill="#9ca3af">,</text>
     
     <text x="40" y="145" fill="#a78bfa">"role"</text>
     <text x="85" y="145" fill="#9ca3af">:</text>
