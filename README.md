@@ -19,7 +19,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
+  <img src="./assets/header-animation.svg" alt="Nour Ehab - Backend Developer" width="100%"/>
   
   <br/>
   
@@ -32,7 +32,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/nurehab?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fred1-for-hek&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnurehab&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
   </a>
   &nbsp;
   <a href="https://github.com/nurehab?tab=followers">
@@ -78,7 +78,7 @@
 ```yaml
 name: Nour Ehab
 located_in: Egypt 🇪🇬
-current_status: Backend Developer Intern
+current_status: Backend Developer
 os_preference: Ubuntu Linux 🐧
 
 areas_of_expertise:
@@ -87,8 +87,6 @@ areas_of_expertise:
   - 🗄️ PostgreSQL & Database Design
   - 🐳 Docker & Containerization
   - 🔄 REST APIs & WebSockets
-  - 🌐 Full-Stack Web Development
-  - 🧠 Deep Learning & NLP
 
 currently_building:
   - Scalable Microservices
@@ -106,9 +104,7 @@ life_philosophy: "Talk is cheap. Show me the logs."
 - 🔬 **Mastering** advanced NestJS & software architecture
 - 🤖 **Optimizing** SQL queries and database schemas
 - 🐳 **Integrating** Docker into local dev workflows
-- 🧠 **Contributing** to open-source
-- 🌟 **Prepping** for Backend Intern technical interviews
-- 🏆 **Competing** in programming olympiads
+- 🌟 **Prepping** Backend Intern technical interviews
 - 📚 **Refactoring** old codebases for better scalability
 
 <br/>
@@ -143,8 +139,8 @@ life_philosophy: "Talk is cheap. Show me the logs."
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-trophies.vercel.app/%3Fusername%3Dnourehab%26theme%3Ddiscord%26no-frame%3Dtrue%26no-bg%3Dtrue%26column%3D7%26margin-w%3D10" alt="GitHub Trophies" width="100%"/>
-</a>
+    <img src="https://github-trophies.vercel.app/?username=nurehab&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
   
 </div>
 
@@ -165,32 +161,32 @@ life_philosophy: "Talk is cheap. Show me the logs."
 <div align="center">
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
-  <a href="https://github.com/red1-for-hek">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=red1-for-hek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/nurehab">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurehab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   &nbsp;
-  <a href="https://github.com/red1-for-hek">
+  <a href="https://github.com/nurehab">
     <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
   
   <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
-  <a href="https://github.com/red1-for-hek">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=red1-for-hek&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  <a href="https://github.com/nurehab">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurehab&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
   
   <br/><br/>
   
   <!-- Activity Graph -->
-  <a href="https://github.com/red1-for-hek">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=red1-for-hek&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  <a href="https://github.com/nurehab">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurehab&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
   </a>
   
   <br/><br/>
   
   <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red1-for-hek&theme=tokyonight" width="95%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurehab&theme=tokyonight" width="95%" alt="Profile Details"/>
   
 </div>
 
@@ -240,41 +236,49 @@ life_philosophy: "Talk is cheap. Show me the logs."
 <div align="center">
 
 <!-- 💻 LANGUAGES -->
-<div align="center">
-
 <h4>💻 Languages & Core</h4>
 <p>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
 </p>
 
+<!-- 🌐 WEB DEVELOPMENT -->
 <h4>⚙️ Backend Development</h4>
 <p>
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnestjs%26theme%3Ddark" alt="NestJS"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexpress%26theme%3Ddark" alt="Express"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnestjs%26theme%3Ddark" alt="NestJS"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexpress%26theme%3Ddark" alt="Express"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
 </p>
 
+<!-- 🗄️ DATABASES -->
 <h4>🗄️ Databases</h4>
 <p>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/></a>
 </p>
 
-<h4>🔧 Tools & Environment</h4>
+<!-- 🔧 TOOLS & PLATFORMS -->
+<h4>🔧 Tools & Platforms</h4>
 <p>
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
 </p>
 
 </div>
 
-<hr/>
+<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
