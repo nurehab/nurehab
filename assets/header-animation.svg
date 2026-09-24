@@ -11,33 +11,36 @@
         <animate attributeName="stop-color" values="#f093fb;#667eea;#764ba2;#f093fb" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
-    
-    <filter id="textShadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#667eea" flood-opacity="0.5"/>
-    </filter>
+
+```
+<filter id="textShadow" x="-10%" y="-10%" width="120%" height="120%">
+  <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#667eea" flood-opacity="0.5"/>
+</filter>
+```
+
   </defs>
-  
+
   <rect width="100%" height="100%" fill="#0d1117"/>
-  
+
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1f2937" stroke-width="0.5" opacity="0.3"/>
     </pattern>
   </defs>
   <rect width="100%" height="100%" fill="url(#grid)"/>
-  
+
   <rect x="0" y="0" width="900" height="3" fill="url(#premiumGradient)"/>
-  
+
   <g filter="url(#textShadow)">
     <text x="450" y="75" text-anchor="middle" font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" font-size="48" font-weight="700" fill="url(#premiumGradient)" letter-spacing="3">
       NOUR EHAB
     </text>
   </g>
-  
+
   <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" font-size="16" fill="#9ca3af" letter-spacing="4">
-    BACKEND DEVELOPER  •  NESTJS &amp; NODE.JS  •  DATABASE ARCHITECT
+    FULL-STACK DEVELOPER  •  REACT &amp; NODE.JS  •  WEB APPLICATIONS
   </text>
-  
+
   <g opacity="0.6">
     <line x1="120" y1="140" x2="380" y2="140" stroke="url(#premiumGradient)" stroke-width="1">
       <animate attributeName="x2" values="120;380" dur="1s" fill="freeze"/>
@@ -46,10 +49,10 @@
       <animate attributeName="x1" values="780;520" dur="1s" fill="freeze"/>
     </line>
   </g>
-  
+
   <polygon points="450,135 458,145 450,155 442,145" fill="url(#premiumGradient)" opacity="0.8">
     <animateTransform attributeName="transform" type="rotate" from="0 450 145" to="360 450 145" dur="10s" repeatCount="indefinite"/>
   </polygon>
-  
+
   <rect x="0" y="177" width="900" height="3" fill="url(#premiumGradient)"/>
 </svg>
